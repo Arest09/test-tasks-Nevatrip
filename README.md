@@ -1,8 +1,8 @@
 ###Задание № 2 на верстку
 -----------------------------
-1. :ghost: [Верстка страницы](https://arest09.github.io/Nevatrip-page/)
+1. :ghost: [Верстка страницы](https://github.com/Arest09/Nevatrip-page); [githubpages](https://arest09.github.io/Nevatrip-page/)
   
-2. :alien: Устранить скролл
+1. :alien: Устранить скролл
 
 Решить проблему со скролом можно разными способами:
 + для правильного расчета размера элементов я добавил свойства __"border-box"__ для всех css элементов,прописав __box-sizing:border-box__ 
@@ -14,6 +14,9 @@
 
 
 -----------------------------
-##Задание № 3 js
+
+###Задание № 3 js
 
 1. [Время из A в B](https://github.com/Arest09/-A-B)
+[Здесь](https://nevatrip.herokuapp.com/) страница лежит на хостинге
+
