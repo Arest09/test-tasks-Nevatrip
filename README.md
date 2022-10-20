@@ -19,9 +19,8 @@
 
 <h3>Задание № 3 js </h3>
 
-
 + [Билеты на событие](https://docs.google.com/spreadsheets/d/1m0vJuWw2pQTQ_b1RRWxqBw_VCO5rBv7sfb0afx5Rw2k/edit#gid=0)
  <br>
+
 + [Время из A в B](https://github.com/Arest09/-A-B)
 [Здесь](https://nevatrip.herokuapp.com/) страница лежит на хостинге;
-
