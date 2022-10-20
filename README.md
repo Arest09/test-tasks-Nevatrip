@@ -19,7 +19,7 @@
 
 <h3>Задание № 3 js </h3>
 
-1. [Время из A в B](https://github.com/Arest09/-A-B)
+1. [Время из A в B](https://github.com/Arest09/-A-B)<br>
 [Здесь](https://nevatrip.herokuapp.com/);
 страница лежит на хостинге
 
