@@ -1,4 +1,6 @@
 <h3> Задание № 2 на верстку</h3>
+
+
 -----------------------------
 1. :ghost: [Верстка страницы](https://github.com/Arest09/Nevatrip-page); [githubpages](https://arest09.github.io/Nevatrip-page/)
   
